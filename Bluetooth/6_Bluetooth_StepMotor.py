@@ -5,7 +5,7 @@
 #// daha sonra ise mobil cihazınıza DeneySetini ve Picoyu kontrol edebilecek bir uygulama kurmanız gerekir.
 #// Bunun için PlayStore mağazasındaki "Bluetooth Electronics" (keuwlsoft) uygulamasını kullanabilirsiniz.
 #// Uygulamadan kendiniz arayüz tasarlayabileceğiniz gibi, hazır arayüzü indirmek için de uygulamadan "Load From Web Link" bağlantısını kullanabilirsiniz.
-#// Hazır arayüz linki "https://raw.githubusercontent.com/cogullu/RPPicoDS/main/RPPicoDS_Bluetooth.kwl?token=APP4NV3A7USEOAW3TGE53FTA4IEGC"
+#// Hazır arayüz linki "https://raw.githubusercontent.com/cogullu/RPPicoDS/main/Bluetooth/RPPicoDS_Bluetooth.kwl?token=APP4NV4UOVXK5GZBO4SWAATA537CI"
 # Bu uygulamada slider bir adım ile 2 tur arasında değişir.
 
 from machine import Pin, UART, PWM, ADC
