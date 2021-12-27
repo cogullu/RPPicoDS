@@ -1,8 +1,8 @@
-#Bluetooth kullanmak için önce mobil cihazınız ile DeneySeti üzerindeki HC-05 bluetooth modülünü eşleştirmeniz gerekir.
-#// daha sonra ise mobil cihazınıza DeneySetini ve Picoyu kontrol edebilecek bir uygulama kurmanız gerekir.
-#// Bunun için PlayStore mağazasındaki "Bluetooth Electronics" (keuwlsoft) uygulamasını kullanabilirsiniz.
-#// Uygulamadan kendiniz arayüz tasarlayabileceğiniz gibi, hazır arayüzü indirmek için de uygulamadan "Load From Web Link" bağlantısını kullanabilirsiniz.
-#// Hazır arayüz linki "https://raw.githubusercontent.com/cogullu/RPPicoDS/main/Bluetooth/RPPicoDS_Bluetooth.kwl?token=APP4NV4UOVXK5GZBO4SWAATA537CI"
+#Bluetooth kullanmak iÃ§in Ã¶nce mobil cihazÄ±nÄ±z ile DeneySeti Ã¼zerindeki HC-05 bluetooth modÃ¼lÃ¼nÃ¼ eÅŸleÅŸtirmeniz gerekir.
+#// daha sonra ise mobil cihazÄ±nÄ±za DeneySetini ve Picoyu kontrol edebilecek bir uygulama kurmanÄ±z gerekir.
+#// Bunun iÃ§in PlayStore maÄŸazasÄ±ndaki "Bluetooth Electronics" (keuwlsoft) uygulamasÄ±nÄ± kullanabilirsiniz.
+#// Uygulamadan kendiniz arayÃ¼z tasarlayabileceÄŸiniz gibi, hazÄ±r arayÃ¼zÃ¼ indirmek iÃ§in de uygulamadan "Load From Web Link" baÄŸlantÄ±sÄ±nÄ± kullanabilirsiniz.
+#// HazÄ±r arayÃ¼z linki "https://raw.githubusercontent.com/cogullu/RPPicoDS/main/Bluetooth/RPPicoDS_Bluetooth.kwl"
 
 
-https://raw.githubusercontent.com/cogullu/RPPicoDS/main/Bluetooth/RPPicoDS_Bluetooth.kwl?token=APP4NV4UOVXK5GZBO4SWAATA537CI
+https://raw.githubusercontent.com/cogullu/RPPicoDS/main/Bluetooth/RPPicoDS_Bluetooth.kwl
