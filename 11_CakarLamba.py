@@ -3,7 +3,7 @@
 from machine import Pin                                                                        
 import utime
 
-RGB_red = Pin(17, Pin.OUT)     # RGB Kırmızı Işık
+RGB_red = Pin(18, Pin.OUT)     # RGB Kırmızı Işık
 RGB_blue = Pin(16, Pin.OUT)    # RGB Mavi Işık
                  
 RGB_red.value(0)              
