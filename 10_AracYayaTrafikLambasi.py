@@ -7,8 +7,8 @@ led_k = Pin(2, Pin.OUT)   # Araç Kırmızı Işık
 led_s = Pin(3, Pin.OUT)   # Araç Sarı Işık
 led_y = Pin(4, Pin.OUT)   # Araç Yeşil Işık
 
-yayaRGB_green = Pin(18, Pin.OUT)   # Yaya Yeşil Işık,
-yayaRGB_red = Pin(17, Pin.OUT)     # Yaya Kırmızı Işık
+yayaRGB_green = Pin(17, Pin.OUT)   # Yaya Yeşil Işık,
+yayaRGB_red = Pin(18, Pin.OUT)     # Yaya Kırmızı Işık
 
 aracGecisSure=15
 aracBeklemeSure=10
